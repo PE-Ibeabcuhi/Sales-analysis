@@ -2,6 +2,7 @@
 This project aims to uncover insights and trends in a company's sales performance by leveraging the power of SQL. 
 For this project, the sales data is gotten from [kaggle](https://kaggle.com/)
 
+## About the Data
 The data includes 186,862 rows, and 6 columns;
 - Order ID: Showing the unique id for each transaction made
 - Product: Showing the different products sold
